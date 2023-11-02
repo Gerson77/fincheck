@@ -1,5 +1,9 @@
 # Fincheck
 
+<p align="center" >
+  <a href="http://nestjs.com/" target="blank"><img src="demo/Logo.svg" width="200" alt="Nest Logo" /></a>
+</p>
+
 ## Gerencie suas finanças pessoais de uma forma simples com o fincheck, e o melhor, totalmente de graça!
 
 Projeto desenvolvido no curso [JStack](https://jstack.com.br/) <span><img style="width: 56px" src="demo/logo-curso.png" align="center" /></span> do Mateus Silva, usando as técnologias React no Frontend e NestJs no Backend. Aplicação é um gerenciador de finanças que caulcula saldo entre contas, receitas e despesas.
