@@ -1,25 +1,20 @@
-# Projeto MyContacts
+# Fincheck
 
-### Projeto é uma lista de contatos
+## Gerencie suas finanças pessoais de uma forma simples com o fincheck, e o melhor, totalmente de graça!
 
-Projeto desenvolvido no curso [JStack](https://jstack.com.br/) <span><img style="width: 56px" src="demo/logo-curso.png" align="center" /></span> do Mateus Silva, usando as técnologias React no Frontend e NestJs no Backend. Aplicação é um gerenciador de finanças que caulcula receitas e despesas.
-
-
-### Gerencie suas finanças pessoais de uma forma simples com o fincheck, e o melhor, totalmente de graça!
-
+Projeto desenvolvido no curso [JStack](https://jstack.com.br/) <span><img style="width: 56px" src="demo/logo-curso.png" align="center" /></span> do Mateus Silva, usando as técnologias React no Frontend e NestJs no Backend. Aplicação é um gerenciador de finanças que caulcula saldo entre contas, receitas e despesas.
 
 ## Dashboard:
 <h1>
     <img src="demo/Home.png" align="center" />
 </h1>
 
-
 ## Registrando usuário:
 <h1>
     <img src="demo/register.png" align="center" />
 </h1>
 
-# Responsivo mais adição de receitas:
+# Adição de receitas e responsivo:
 <h1>
     <img src="demo/responsive.png" align="center" />
 </h1> 
@@ -29,7 +24,7 @@ Projeto desenvolvido no curso [JStack](https://jstack.com.br/) <span><img style=
     <img src="demo/Edit.png" align="center" />
 </h1> 
 
-# Deletar da conta:
+# Deletar conta financeira:
 <h1>
     <img src="demo/delete-account.png" align="center" />
 </h1> 
